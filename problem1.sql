@@ -1,2 +1,2 @@
 SELECT * FROM song;
-SELECT Title, Artist FROM Song;
+ SELECT Title, Artist FROM Song;
